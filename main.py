@@ -6,7 +6,7 @@ if 5 > 2:
 """
 # Python has no command for declaring a variable.
 x = 5
-y= "Hello World!"
+y = "Hello World!"
 
 x = 4       # x is of type int
 x = "Sally" # x is now of type str
@@ -97,3 +97,4 @@ def myfunc():
 myfunc() #Python is fantastic
 
 print("Python is " + x) #Python is awesome
+
